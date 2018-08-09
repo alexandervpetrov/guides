@@ -1,2 +1,2 @@
-# guides
-Guides and thoughts on various topics
+
+Мысли на разные темы.
